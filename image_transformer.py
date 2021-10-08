@@ -1,4 +1,4 @@
-from util import *
+from rotate_3d.util import *
 import numpy as np
 import cv2
 
